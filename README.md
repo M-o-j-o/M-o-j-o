@@ -3,12 +3,9 @@
 
 I am an aspiring cybersecurity engineer passionate about secure coding, web application security, and network defense. I enjoy building and breaking systems to understand how to make them stronger.
 
-My mission is to contribute to a safer internet by writing secure code, breaking insecure systems ethically, and helping teams build resilient applications from the ground up.
-
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I’m passionate about cybersecurity and committed to becoming a cybersecurity engineer, where I can contribute to a safer internet by writing secure code, ethically analyzing insecure systems, and helping teams design and build resilient security architectures from the ground up.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
