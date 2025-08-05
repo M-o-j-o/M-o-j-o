@@ -27,17 +27,23 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 ## Certifications
 <div>
 <!-- Responsive Web Design -->
-<img src="https://img.shields.io/badge/-Responsive%20Web%20Design-4D4D4D?&style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
-
+<a href="https://www.freecodecamp.org/certification/M-o-j-o/responsive-web-design" target="_blank">
+  <img src="https://img.shields.io/badge/-Responsive%20Web%20Design-4D4D4D?&style=for-the-badge&logo=freeCodeCamp&logoColor=white" />
+</a>
+    
 <!-- Advent of Cyber 2024 -->
-<img src="https://img.shields.io/badge/-Advent%20of%20Cyber%202024-006400?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VOLQVDG8OB.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-Advent%20of%20Cyber%202024-006400?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+</a>
 
 <!-- IBM Cybersecurity Fundamentals -->
-<img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-000080?&style=for-the-badge&logo=IBM&logoColor=white" />
+<a href="https://www.credly.com/badges/6df8fb0c-614e-4ebc-8f9d-a65a79157026/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-000080?&style=for-the-badge&logo=IBM&logoColor=white" />
+</a>
 
 <!-- NDG Linux Unhatched -->
 <img src="https://img.shields.io/badge/-NDG%20Linux%20Unhatched-007ACC?&style=for-the-badge&logo=Linux&logoColor=white" />
-
+</div>
 
 ## Projects
 - <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a>
