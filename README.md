@@ -40,4 +40,4 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 
 
 ## Projects
-- Command and control lab with AdapatixC2
+- <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a>
