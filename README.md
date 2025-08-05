@@ -10,8 +10,8 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |                                                           |
-|----------------------------------------------|-------------------------------------------------------------------------------------|
+| Skill                                         | Associated Project         |                                                           
+|-----------------------------------------------|-------------------------------------------------------------------------------------|
 | Post-Exploitation and C2 Framework Operations | <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a> |
 
 
