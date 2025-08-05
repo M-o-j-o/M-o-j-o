@@ -10,14 +10,11 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Associated Project         |                                                           |
+|----------------------------------------------|-------------------------------------------------------------------------------------|
+| Post-Exploitation and C2 Framework Operations | <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a> |
+
+
 
 ## Tools
 ### Command and Control(C2)
