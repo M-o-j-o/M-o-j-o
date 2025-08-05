@@ -43,5 +43,4 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Command and control lab with AdapatixC2
