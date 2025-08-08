@@ -13,6 +13,7 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 | Skill                                         | Associated Project         |                                                           
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | Post-Exploitation and C2 Framework Operations | <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a> |
+| Malware analysis and Reverse Engineering | <a href="https://github.com/M-o-j-o/REMnux-Malware-analysis-lab-">REMnux Malware analysis lab</a> |
 
 
 
@@ -22,6 +23,11 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
     <img src="https://img.shields.io/badge/-AdaptixC2-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+### Malware Analysis and Reverse Engineering
+<div>
+    <img src="https://img.shields.io/badge/-REMnux-FF4500?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FlareVM-2E8B57?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
 
 
 ## Certifications
@@ -47,3 +53,4 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 
 ## Projects
 - <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a>
+- <a href="https://github.com/M-o-j-o/REMnux-Malware-analysis-lab-">REMnux Malware analysis lab</a>
