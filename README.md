@@ -14,7 +14,7 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | Post-Exploitation and C2 Framework Operations | <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a> |
 | Malware analysis and Reverse Engineering | <a href="https://github.com/M-o-j-o/REMnux-Malware-analysis-lab-">REMnux Malware analysis lab</a> |
-
+| Network traffic routing & anonymization | <a href="https://github.com/M-o-j-o/Proxychains-setup">ProxyChains Setup</a> |
 
 
 ## Tools
@@ -29,6 +29,10 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
     <img src="https://img.shields.io/badge/-FlareVM-2E8B57?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
+### Network traffic routing & anonymization
+<div>
+    <img src="https://img.shields.io/badge/-ProxyChains-4B0082?&style=for-the-badge&logo=Linux&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
