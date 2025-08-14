@@ -58,3 +58,4 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 ## Projects
 - <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a>
 - <a href="https://github.com/M-o-j-o/REMnux-Malware-analysis-lab-">REMnux Malware analysis lab</a>
+- <a href="https://github.com/M-o-j-o/Proxychains-setup">ProxyChains Setup</a>
