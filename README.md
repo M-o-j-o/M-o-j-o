@@ -8,7 +8,6 @@ I am an aspiring cybersecurity engineer passionate about secure coding, web appl
 I’m passionate about cybersecurity and committed to becoming a cybersecurity engineer, where I can contribute to a safer internet by writing secure code, ethically analyzing insecure systems, and helping teams design and build resilient security architectures from the ground up.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |                                                           
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
