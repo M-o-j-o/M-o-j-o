@@ -12,9 +12,9 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 | Skill                                         | Associated Project         |                                                           
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | Post-Exploitation and C2 Framework Operations | <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a> |
-| Malware analysis and Reverse Engineering | <a href="https://github.com/M-o-j-o/REMnux-Malware-analysis-lab-">REMnux Malware analysis lab</a> |
-| Network traffic routing & anonymization | <a href="https://github.com/M-o-j-o/Proxychains-setup">ProxyChains Setup</a> |
-
+| Malware analysis and Reverse Engineering      | <a href="https://github.com/M-o-j-o/REMnux-Malware-analysis-lab-">REMnux Malware analysis lab</a> |
+| Network traffic routing & anonymization       | <a href="https://github.com/M-o-j-o/Proxychains-setup">ProxyChains Setup</a> |
+| Network Monitoring & Visualization            | <a href="https://github.com/M-o-j-o/NetMon">NetMon: Network Monitoring & Visualization Tool</a> |
 
 ## Tools
 ### Command and Control(C2)
@@ -31,6 +31,11 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 ### Network traffic routing & anonymization
 <div>
     <img src="https://img.shields.io/badge/-ProxyChains-4B0082?&style=for-the-badge&logo=Linux&logoColor=white" />
+</div>
+
+### Network Monitoring & Visualization
+<div>
+    <img src="https://img.shields.io/badge/-NetMon-3B82F6?&style=for-the-badge&logo=Grafana&logoColor=white" />
 </div>
 
 ## Certifications
@@ -58,3 +63,25 @@ I’m passionate about cybersecurity and committed to becoming a cybersecurity e
 - <a href="https://github.com/M-o-j-o/adaptix-c2-walkthrough">Adaptix C2 Walkthrough</a>
 - <a href="https://github.com/M-o-j-o/REMnux-Malware-analysis-lab-">REMnux Malware analysis lab</a>
 - <a href="https://github.com/M-o-j-o/Proxychains-setup">ProxyChains Setup</a>
+- <a href="https://github.com/M-o-j-o/NetMon">NetMon: Network Monitoring & Visualization Tool</a>
+
+---
+
+## NetMon
+
+<a href="https://github.com/M-o-j-o/NetMon">NetMon</a> is a simple yet powerful network monitoring tool built with Python (Flask) for the backend, Prometheus for metrics collection, and Grafana for visualization. It tracks device availability (ping, up/down), response times, and provides real-time insights into network health. NetMon is designed to be easy to deploy and extend, supporting both Windows and Linux environments.
+
+**Features:**
+- Device Discovery: Add and manage network devices (Linux, Windows, VMs, servers, workstations) via a web UI or API.
+- Real-Time Monitoring: Tracks device status (up/down), response times, and system metrics.
+- Performance Graphs: Visualizes CPU and memory usage with Chart.js and Grafana dashboards.
+- Prometheus Integration: Collects metrics from Prometheus and Node Exporter.
+- Grafana Dashboards: Embeds Grafana panels for advanced visualization.
+- Custom Alerts: Status indicators for healthy, warning, and critical devices.
+- Responsive UI: Modern dashboard built with Tailwind CSS and Font Awesome.
+- Multi-Platform Deployment: Includes scripts for deploying agents on Windows and Linux hosts.
+
+**Get started:**  
+<a href="https://github.com/M-o-j-o/NetMon">NetMon on GitHub</a>
+
+---
